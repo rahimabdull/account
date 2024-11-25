@@ -23,6 +23,12 @@ For more details, see [Managing access in {{site.data.keyword.cloud_notm}}](/doc
 ## Setting up your access groups in the console
 {: #catalog-access-groups-console}
 {: ui}
+REVIEW'; the version details , click **Next**.
+Adim the netlife core IMP
+BXNUI0070E
+];#BXNUI0066E} 
+CONFIGURE-DEP88- 412761-.8I90LPO6.
+ADMINSTER THE ROP UYP 00001-3339-0000000;KLOP
 
 See the following sections for details about creating your access groups and assigning specific IAM policies to each one.
 
